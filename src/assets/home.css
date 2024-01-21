@@ -1,0 +1,8 @@
+.review-list {
+    width: 100%;
+    box-shadow: 0 2px 5px 0 rgba(17, 121, 239, .15);
+    border-radius: 6px;
+    border: 1px solid #e6ecef;
+    background: #fff;
+    transition: all .5s ease;
+}
